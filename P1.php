@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
            printf ("Hello World");
+           printf ("Nova linha atualizada");
         ?>
     </body>
 </html>
